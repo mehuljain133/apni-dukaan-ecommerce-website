@@ -73,7 +73,6 @@ You can refer to the following articles on the basics of Git and Github and also
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-## Contribution Guidelines 🏗
 ## Project Admin👨‍
 
 <p align="center">
